@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilsa4932v" alt="akhilsa4932v" /></a> </p>
 
-- 🔭 I’m currently working on **Food Order and Delivery**
+- 🔭 I’m currently working on **Food Order and Delivery web application**
 
 - 🌱 I’m currently learning **Mern Stack**
 
